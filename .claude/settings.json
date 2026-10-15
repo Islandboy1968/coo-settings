@@ -1,0 +1,7 @@
+{"permissions":{"allow":[
+"mcp__Slack__slack_get_file_upload_url",
+"mcp__Slack__slack_complete_file_upload",
+"mcp__Google_Drive__create_file",
+"mcp__Google_Drive__update_file",
+"Bash(curl * https://files.slack.com/*)"
+]}}
